@@ -1,0 +1,14 @@
+.env
+__pycache__/
+*.pyc
+.DS_Store
+.venv/
+# data and trained artifacts (too large / licensed datasets)
+*.csv
+*.npy
+*.npz
+*.pkl
+*.zip
+*.json
+*.jsonl
+images_resized/

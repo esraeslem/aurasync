@@ -1,0 +1,23 @@
+# API
+fastapi
+uvicorn[standard]
+python-multipart
+python-dotenv
+pydantic
+openai          # also provides httpx, used for the local Ollama client
+# Models / data
+pandas
+numpy
+scipy
+scikit-learn==1.6.1   # must match the version the .pkl models were trained with
+lightgbm
+Pillow
+# Training scripts only
+lifetimes
+mlxtend
+open_clip_torch
+torch
+scikit-image
+matplotlib
+seaborn
+tqdm
