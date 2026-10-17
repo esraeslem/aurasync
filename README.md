@@ -137,4 +137,4 @@ Pickled models need the **same scikit-learn version** for training and serving (
 Python · pandas · scikit-learn · LightGBM · mlxtend · lifetimes · open_clip / PyTorch · FastAPI · Uvicorn · Ollama
 
 ## Author
-Esra Eslem Savaş, BSc Statistics (Data Science & Business Analytics), METU
+Esra Eslem Savaş, BSc Statistics, METU
